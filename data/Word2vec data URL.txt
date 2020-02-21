@@ -1,0 +1,2 @@
+One-billion dataset : https://code.google.com/archive/p/word2vec/
+Pretrain Word2vec : https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit
